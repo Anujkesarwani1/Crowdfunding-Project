@@ -19,7 +19,7 @@ export const StateContextProvider = ({ children }) => {
     //"0xa3Ba9d7819B5C99f3A35E35b7B1Aa8eB80937Aa5" // 4th sepolia
     //"0x4cC24ac459D70ac25Ec8A6a2dE23548CdBe7b818" // 5th sepolia
     // "0x6Eb958Ef9D0e49CD388F91f2F4ce3338bcA2Cd64" // 6th sepolia
-    "0x24B1821eb1c80FdFc84Db1fD3C76283a176B94A7" // 7th sepolia
+    "0x27ce9918eacAd6e2536905C0B137EAFCCD25E393" // 7th sepolia
   );
   const { mutateAsync: createCampaign } = useContractWrite(
     contract,
